@@ -1,10 +1,3 @@
-
-<h1 align="center">Hello, there! I'm Sharan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-
-- 🎓 Currently an undergraduate of University of Moratuwa, Faculty of IT.  
-- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/yourlinkedin)  
----
-
 ## 🛠️ Technologies & Tools
 <h1 align="center">Hello, there! I'm Sharan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
@@ -22,8 +15,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" title="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" title="Next.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" title="Java"/>
-  <br/><br/>
-
   <!-- Row 2 -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" title="C"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" title="PostgreSQL"/>
