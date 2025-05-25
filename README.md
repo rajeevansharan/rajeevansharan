@@ -1,4 +1,3 @@
-## 🛠️ Technologies & Tools
 <h1 align="center">Hello, there! I'm Sharan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 - 🎓 Currently an undergraduate of University of Moratuwa, Faculty of IT.  
