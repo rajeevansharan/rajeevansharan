@@ -39,16 +39,16 @@
 
 ## 🔗 Connect With Me
 
-<p align="center">
+<p align="right">
   <a href="mailto:jalina@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
-  </a>
+  </a> <br/>
   <a href="https://www.linkedin.com/in/yourlinkedin">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+  </a><br/>
   <a href="https://www.instagram.com/yourusername">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
+  </a><br/>
   <a href="https://www.facebook.com/yourusername">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook">
   </a>
